@@ -1,6 +1,6 @@
 # SwitchingGenerators
 
-### Computation of switching generators for polyadic contexts ({1..k},...,{1..k},<>) with small n up to 5 under k=n.
+### Computation of switching generators for power polyadic contexts ({1..k},...,{1..k},<>) with small n up to 5 under k=n.
 
 
 ## Reference
